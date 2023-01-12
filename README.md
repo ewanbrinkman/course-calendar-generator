@@ -2,6 +2,8 @@
 
 A program to add course schedules to a calendar.
 
+This application is not endorsed or supported by Simon Fraser University.
+
 ---
 
 # Running The Code
