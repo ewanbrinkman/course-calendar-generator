@@ -6,7 +6,7 @@ This application is not endorsed or supported by Simon Fraser University.
 
 ---
 
-# Running The Code
+## Running The Code
 
 Install `python 3.10.1`.
 
@@ -18,7 +18,9 @@ Run `python main.py`.
 
 A calendar ics file with be created with the name `courses.ics`, which can be imported into a calendar.
 
-# Features
+---
 
-- Asynchronous programming for API calls for course data so that the program runs faster.
+## Features
+
+- Asynchronous programming for course data API calls so that the program runs faster.
 - Type hinting, checked using `mypy`.
