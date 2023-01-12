@@ -1,0 +1,2 @@
+COURSES_INPUT_FILENAME = "courses.txt"
+CALENDAR_OUTPUT_FILENAME = "courses.ics"
